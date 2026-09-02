@@ -2,11 +2,12 @@
 name: keyboard-a11y
 description: 实现全键盘可达与焦点管理（模态陷阱/归还、roving tabindex、SPA 焦点转移、跳过链接）。
 source:
-  type: original
+  type: derived
   repo: skills-repo/accessibility-engineer
   path: skills/keyboard-a11y/SKILL.md
   version: 1.0.0
-  updated: 2026-08-08
+  updated: 2026-09-02
+  url: https://skills.sh/ibelick/ui-skills/fixing-accessibility
 metadata:
   category: 无障碍工程
   platform: Web

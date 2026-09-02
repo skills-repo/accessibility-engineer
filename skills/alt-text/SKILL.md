@@ -2,11 +2,12 @@
 name: alt-text
 description: 为图片/SVG/图表/图标按钮撰写有意义的替代文本或标记为装饰，配合对比度校验。
 source:
-  type: original
+  type: derived
   repo: skills-repo/accessibility-engineer
   path: skills/alt-text/SKILL.md
   version: 1.0.0
-  updated: 2026-08-08
+  updated: 2026-09-02
+  url: https://skills.sh/addyosmani/web-quality-skills/accessibility
 metadata:
   category: 无障碍工程
   platform: Web

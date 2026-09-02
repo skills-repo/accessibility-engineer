@@ -2,11 +2,12 @@
 name: a11y-audit
 description: 对一个页面/组件跑静态无障碍审计并产出分级修复报告，可接入 CI 作门禁。
 source:
-  type: original
+  type: derived
   repo: skills-repo/accessibility-engineer
   path: skills/a11y-audit/SKILL.md
   version: 1.0.0
-  updated: 2026-08-08
+  updated: 2026-09-02
+  url: https://skills.sh/addyosmani/web-quality-skills/accessibility
 metadata:
   category: 无障碍工程
   platform: Web

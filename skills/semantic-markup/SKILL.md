@@ -2,11 +2,12 @@
 name: semantic-markup
 description: 为 UI 组件编写语义化 HTML 与正确的 ARIA（按钮/对话框/菜单/标签页等），避免无意义 role。
 source:
-  type: original
+  type: derived
   repo: skills-repo/accessibility-engineer
   path: skills/semantic-markup/SKILL.md
   version: 1.0.0
-  updated: 2026-08-08
+  updated: 2026-09-02
+  url: https://skills.sh/jakubkrehel/skills/better-accessibility
 metadata:
   category: 无障碍工程
   platform: Web
