@@ -46,6 +46,13 @@ metadata:
 - Tab 顺序错乱、焦点看不见
 - 自定义菜单、标签页、列表框的键盘操作
 
+## 相关参考
+
+- 方法论：`references/keyboard-focus.md`（焦点陷阱、roving tabindex、skip link）
+- 实测确认：`references/screen-reader-testing.md`（键盘可达性最终需读屏实测）
+- 修复分级：`references/audit-remediation.md`（焦点类缺陷整改）
+- 语义基础：`skills/semantic-markup`
+
 ## 限制
 
 - 焦点管理需配合正确语义/ARIA（`semantic-markup`），否则读屏仍读错。

@@ -66,6 +66,14 @@
 | 朗读名与所见不符 | `aria-label` 覆盖 | 让可见文本即名称 |
 | 跳过了重要内容 | 误用 `aria-hidden` | 检查是否含可聚焦后代 |
 
+## 相关衔接
+
+- 键盘与焦点是读屏实测的必验项 → `keyboard-focus.md`（焦点陷阱、skip link、roving tabindex）
+- 读屏消费的是语义与 ARIA → `semantic-html-aria.md`
+- 实测发现的缺陷汇入整改流程 → `audit-remediation.md`
+- 读屏实测是整页静态审计的人工补充面 → `skills/a11y-audit`
+- 静态面由脚本负责：`scripts/a11y_audit.py`、`scripts/aria_lint.py`
+
 ## 限制
 
 - 读屏测试依赖具体软件版本，结果以"能/不能用"定性，难以写死断言；它补自动化之不足，不取代 `a11y_audit.py` / `aria_lint.py`。

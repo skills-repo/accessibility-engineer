@@ -46,6 +46,13 @@ metadata:
 - 用图标当按钮却无名称
 - 数据图表需要无障碍替代
 
+## 相关参考
+
+- 判据来源：`references/wcag-playbook.md`（SC 1.1.1 非文本内容）
+- 修复分级：`references/audit-remediation.md`（alt 缺失/不当的整改）
+- 整页静态审计：配合 `skills/a11y-audit`
+- 对比度复核：`scripts/contrast_check.py`
+
 ## 限制
 
 - 只处理"非文本内容"维度；结构、键盘、读屏流程见其它子技能。
