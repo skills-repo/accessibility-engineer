@@ -20,10 +20,10 @@
 
 | 技能 | 说明 | 来源 |
 |------|------|------|
-| `semantic-markup` | 为组件编写语义化 HTML 与正确 ARIA（按钮/对话框/菜单/标签页） | original |
-| `keyboard-a11y` | 键盘可达与焦点管理（模态陷阱/归还、roving tabindex、SPA 焦点转移） | original |
-| `alt-text` | 为图片/SVG/图标按钮/图表撰写替代文本，配合对比度校验 | original |
-| `a11y-audit` | 跑静态无障碍审计并产出分级修复报告，可接入 CI 作门禁 | original |
+| `semantic-markup` | 为组件编写语义化 HTML 与正确 ARIA（按钮/对话框/菜单/标签页） | derived · jakubkrehel/skills@better-accessibility (11.4K) |
+| `keyboard-a11y` | 键盘可达与焦点管理（模态陷阱/归还、roving tabindex、SPA 焦点转移） | derived · ibelick/ui-skills@fixing-accessibility (17.6K) |
+| `alt-text` | 为图片/SVG/图标按钮/图表撰写替代文本，配合对比度校验 | derived · addyosmani/web-quality-skills@accessibility (49.5K) |
+| `a11y-audit` | 跑静态无障碍审计并产出分级修复报告，可接入 CI 作门禁 | derived · addyosmani/web-quality-skills@accessibility (49.5K) |
 
 ## 安装
 
